@@ -30,3 +30,6 @@
 Téléchargez et imprimez le boîtier 3D minimal pour votre Pico W.
 
 - [Lien vers le fichier 3D](https://cults3d.com/fr/mod%C3%A8le-3d/outil/raspberry-pi-pico-minimal-housing)
+
+
+#### COPYRIGHT: https://github.com/wasdwasd0105/PicoW-usb2bt-audio
